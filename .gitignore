@@ -13,8 +13,6 @@ node_modules
 Thumbs.db
 
 # Env
-.env
-.env.*
 !.env.example
 !.env.test
 
@@ -22,3 +20,4 @@ Thumbs.db
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 mcp*
+config.bat
